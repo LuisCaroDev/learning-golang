@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-	basics.BasicSyntax()
+	// basics.BasicSyntax()
+	basics.Variables()
 }

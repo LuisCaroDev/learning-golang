@@ -2,7 +2,7 @@
 
 ### Learn the Basics
 - [x] Basic Syntax
-- [ ] Variables and declaration
+- [x] Variables and declaration
 - [ ] Data Types
     - [ ] `bool`
     - [ ] `int`, `int8`, `int16`, `int32`, `int64`
