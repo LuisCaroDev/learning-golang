@@ -1,7 +1,7 @@
 ## Go Developer Roadmap
 
 ### Learn the Basics
-- [ ] Basic Syntax
+- [x] Basic Syntax
 - [ ] Variables and declaration
 - [ ] Data Types
     - [ ] `bool`
